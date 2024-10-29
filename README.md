@@ -24,7 +24,6 @@
 - [How It Works](#-how-it-works)  
 - [Installation](#-installation)  
 - [Usage](#-usage)  
-- [Demo](#-demo)  
 - [Technologies Used](#-technologies-used)  
 - [Contributing](#-contributing)  
 - [License](#-license)
@@ -80,13 +79,6 @@ Speaker 1: 00:00 - 00:25
 Speaker 2: 00:25 - 01:10  
 Speaker 1: 01:10 - 01:45  
 ```
-
----
-
-## 🎥 Demo  
-Check out a sample diarization output to see the project in action!
-
-➡️ **[Demo Video (Optional)]()**  
 
 ---
 
